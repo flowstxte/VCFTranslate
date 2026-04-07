@@ -42,10 +42,10 @@ A Python script to translate contact names in VCF files from English to Bengali.
     ```
 
 3.  **Follow the prompts:**
-    -   Enter the path to your VCF file (or press Enter to use the default `contacts.vcf`).
-    -   Enter the desired output file path (or press Enter to use the default `translated_contacts.vcf`).
+    - Enter the path to your VCF file (or press Enter to use the default `contacts.vcf`).
+    - Enter the desired output file path (or press Enter to use the default `translated_contacts.vcf`).
 
-4.  The script will process the file and save the translated version to the specified output file.
+4.  The script will process the file and save the translated version to the output file.
 
 ## How It Works
 
